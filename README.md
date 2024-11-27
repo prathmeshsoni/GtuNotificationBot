@@ -1,6 +1,6 @@
 
 <h1 align="center" class="dotted" id="top">
-    <a href="https://cse-aiml.live/github/GtuNotificationBot/logo/?ref=logo-name-github" target="_blank">   
+    <a href="https://cse-aiml.tech/github/GtuNotificationBot/logo/?ref=logo-name-github" target="_blank">   
         GtuNotificationBot
     </a>
 </h1>
@@ -25,9 +25,9 @@
 
 # Live Demo 👇:
 
-- **Website:**  <a href="https://cse-aiml.live/github/GtuNotificationBot/page/?ref=live-link-github" target="_blank"> cse-aiml.live</a>
+- **Website:**  <a href="https://cse-aiml.tech/github/GtuNotificationBot/page/?ref=live-link-github" target="_blank"> cse-aiml.tech</a>
 
-- **Telegram Bot:**  <a href="https://cse-aiml.live/github/GtuNotificationBot/get/?ref=live-link-github" target="_blank"> @GtuNotificationBot</a>
+- **Telegram Bot:**  <a href="https://cse-aiml.tech/github/GtuNotificationBot/get/?ref=live-link-github" target="_blank"> @GtuNotificationBot</a>
 
 <br />
 
@@ -37,7 +37,7 @@
 ![Current Result](./media/Steps-GtuNotificationBot.png)
 
 
-GtuNotificationBot is a Telegram bot designed to keep users informed about GTU exam results and updates from cse-aiml.live. It allows users to authenticate, receive notifications, and manage their preferences efficiently 📢.
+GtuNotificationBot is a Telegram bot designed to keep users informed about GTU exam results and updates from cse-aiml.tech. It allows users to authenticate, receive notifications, and manage their preferences efficiently 📢.
 
 
 <br />
@@ -160,4 +160,4 @@ For any issues or suggestions, please [open an issue](https://github.com/Prathme
 
 
 ---
-**<a href="https://cse-aiml.live/github/GtuNotificationBot/footer/?ref=footer-github" target="_blank">GtuNotificationBot</a>** - Provided by **<a href="https://prathmeshsoni.works?ref=footer-github" target="_blank">Prathmesh Soni</a>**
+**<a href="https://cse-aiml.tech/github/GtuNotificationBot/footer/?ref=footer-github" target="_blank">GtuNotificationBot</a>** - Provided by **<a href="https://prathmeshsoni.works?ref=footer-github" target="_blank">Prathmesh Soni</a>**
